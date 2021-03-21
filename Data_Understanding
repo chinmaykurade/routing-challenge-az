@@ -1,3 +1,4 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.Package data tells us about the Product delievery condition while travelling on the route with particular unique id.
 2.In the Package data, there are columns lets say "AD" which is a stop of vehicle to deliver a product. we will count the Number of Product deleiverd at each stop.
+3. In the second point, there may be some sitaution like delivery pending something like that. I haven't explored that yet. I assumed all the product which is showing are delievered at that stop 'AD'.
